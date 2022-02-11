@@ -9,7 +9,7 @@ MVC:
 * **The Controller** - Concerned with behaviour to make any controll we need.
 
 # Structure
-``
+```
 Your path
 ├─── controller
 |		└─── ArticleController.php
